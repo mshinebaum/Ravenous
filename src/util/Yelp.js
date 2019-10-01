@@ -14,6 +14,7 @@ export const Yelp = {
                     console.log(business);
                     return {
                         id: business.id,
+                        url: business.url,
                         imageSrc: business.image_url,
                         name: business.name,
                         address: business.location.address1,
