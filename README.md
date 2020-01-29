@@ -1,3 +1,10 @@
+## The Ranvenous Application
+
+Part of the Codecademy development course in React development. Integreates with the Yelp API to
+allow custom searches of dining options inside a specified area. Altered for the original with some 
+custom styling elements and click thorugh linking of the results to their original Yelp pages.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
